@@ -1,1 +1,1 @@
-# digital-image-processing
+# Collection of digital image processing tasks
