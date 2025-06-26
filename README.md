@@ -1,5 +1,5 @@
 # Collection of digital image processing tasks
 
 ```
-git clone "link repository"
+git clone https://github.com/ryzallz45/digital-image-processing.git
 ```
